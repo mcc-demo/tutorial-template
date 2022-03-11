@@ -13,5 +13,6 @@ Contents
 .. toctree::
 
    classdemo
+	  anotherdemo
    pagetwo
 

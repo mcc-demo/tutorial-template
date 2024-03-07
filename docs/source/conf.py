@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'MCC Class Demo'
-copyright = '2022, Zoe'
+copyright = '2024, Zoe'
 author = 'Zoe'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.1'
 
 # -- General configuration
 
@@ -29,7 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = 'alabaster'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

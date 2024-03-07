@@ -12,6 +12,9 @@ Contents
 
 .. toctree::
 
+   basicRst
+   basicHeadings
+   basicDirectives
    classdemo
    anotherdemo
    pagetwo

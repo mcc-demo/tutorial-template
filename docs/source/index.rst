@@ -14,6 +14,7 @@ Contents
 
    basicRst
    basicHeadings
+   tables
    basicDirectives
    classdemo
    anotherdemo

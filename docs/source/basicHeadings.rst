@@ -17,6 +17,6 @@ Now I'm going to link to `Heading 2`_
 
 And try to link to google_.
 
--- _google: https://www.google.com
+.. _google: https://www.google.com
 
 Another random paragraph.

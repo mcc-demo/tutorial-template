@@ -13,16 +13,16 @@ The following is ``.. warning:: warning text``
 
 .. warning:: warning text
 
-the following is ``.. class:: css class``
+the following is ``.. class:: myclass``
 
-.. class:: css class 
+.. class:: myclass
+This content should have the class "myclass"
 
-the following is ``.. youtube:: 3Zisvln1QZ8``
+the following is ``.. youtube:: 3Zisvln1QZ8`` (Not supported out of the box)
 
 .. youtube:: 3Zisvln1QZ8
 
 The following is 
-
 .. codeblock:: 
         .. glossary::
             term
@@ -33,7 +33,6 @@ The following is
         definition text
 
 The following is
-
 .. codeblock::
         ..codeblock::
             code

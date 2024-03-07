@@ -13,8 +13,10 @@ Heading 3
 
 The above heading used equal signs.
 
-Now I'm going to link to 'Heading 2'_
+Now I'm going to link to `Heading 2`_
 
-And try to link to google_
+And try to link to google_.
 
 -- _google: https://www.google.com
+
+Another random paragraph.

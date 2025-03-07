@@ -12,6 +12,7 @@ Contents
 
 .. toctree::
 
+   new
    basicRst
    basicHeadings
    tables
